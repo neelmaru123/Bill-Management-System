@@ -1,0 +1,6 @@
+[submodule "Bill-Management-System-frontend"]
+	path = Bill-Management-System-frontend
+	url = https://github.com/neelmaru123/Bill-Management-System-frontend.git
+[submodule "Bill-Management-System-backend"]
+	path = Bill-Management-System-backend
+	url = https://github.com/neelmaru123/Bill-Management-System-backend.git
